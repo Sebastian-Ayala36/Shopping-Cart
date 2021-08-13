@@ -4,7 +4,7 @@
 React Project for interaction with Strapi databases
 
 ## Roadmap
-Improving the interface in order to make it more user-friendly
+Improving the interface in order to make it more user-friendly. Additional to this, interaction with additional databases in order to add versatility to the project
 
 ## License
 
