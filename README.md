@@ -3,6 +3,9 @@
 ## Description
 React Project for interaction with Strapi databases
 
+## Installation
+Download the files within this repo and open the index.html file with Live Server or npm http-server
+
 ## Roadmap
 Improving the interface in order to make it more user-friendly. Additional to this, interaction with additional databases in order to add versatility to the project
 
